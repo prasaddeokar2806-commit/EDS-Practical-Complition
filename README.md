@@ -1,2 +1,1 @@
-Youtube Preskilet Link:
-https://youtu.be/deDYTi1NOLI?si=H3DN6XePU7_qWdkx
+[![Watch the video](https://img.youtube.com/vi/deDYTi1NOLI/0.jpg)](https://www.youtube.com/watch?v=deDYTi1NOLI)
